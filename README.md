@@ -11,7 +11,7 @@ A collection of **real-world Data Science and Machine Learning projects** built 
 * **Seaborn**
 * **Scikit-learn**
 * **Jupyter Notebook**
-* **SQL** *(where applicable)*
+* **SQL**
 
 ### 📂 Projects
 
